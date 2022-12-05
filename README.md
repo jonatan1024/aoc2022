@@ -19,3 +19,11 @@ Modify that program that it solves modified problem:
 Write a C# program that reads input.txt and solves following problem:
 
 {aoc assignment text}
+
+### Day 2 part 2
+
+Write a C# program that reads input.txt and solves following problem. Note that shapes are separated by space:
+
+{aoc assignment text part 1, cut after example data}
+{aoc assignment text part 2}
+
