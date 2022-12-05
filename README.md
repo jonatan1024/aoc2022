@@ -39,3 +39,15 @@ Modify the code that it solves following modified problem. Remember to look for 
 
 {aoc assignment text part 2}
 
+## Day 4
+
+Write a C# program that reads input.txt and solves the following problem:
+
+{aoc assignment text with backticks added around example data}
+
+### Day 4 part 2
+
+Modify the code that it solves following modified problem:
+
+{aoc assignment text part 2}
+
